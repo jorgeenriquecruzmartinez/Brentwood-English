@@ -1,0 +1,9 @@
+{
+  "name": "brentwood-english",
+  "version": "2.5.0",
+  "private": true,
+  "description": "Brentwood English TOEFL practice platform",
+  "dependencies": {
+    "@netlify/blobs": "^10.7.9"
+  }
+}
